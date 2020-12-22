@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-   atguigu 分支  B 拿不到
+   对不起 我拿到了
   </div>
 </template>
 
